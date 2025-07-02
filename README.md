@@ -33,6 +33,8 @@ Cloud computing means renting computing power, storage, and networking over the 
 | **Public**    | AWS, Azure, GCP  | Anyone               | Low cost, massive scale     |
 | **Hybrid**    | Mix of both      | You & your teams     | Flexibility & data control  |
 
+![Image](https://github.com/user-attachments/assets/c6e31692-53b4-40f2-99cf-6d9629964d57)
+
 ---
 
 ## Service Models Breakdown
