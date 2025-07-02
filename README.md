@@ -7,6 +7,7 @@
 ## What Is Cloud Computing?
 Cloud computing means renting computing power, storage, and networking over the Internet instead of buying and maintaining physical machines yourself. You spin up resources when you need them, pay only for what you use, and let providers handle the heavy lifting.
 
+![Image](https://github.com/user-attachments/assets/5df0883f-20e2-4825-898b-4e887c388825)
 ---
 
 ## A Quick Backstory
