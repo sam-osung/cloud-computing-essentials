@@ -75,7 +75,7 @@ _Pick this to focus on writing code, not maintaining servers. Great for web apps
   - User settings & preferences  
   - Data you upload or generate  
 - **Provider Manages:**  
-  - Everything else—servers, networks, OS, middleware, runtime, and the application itself  
+  - Everything else ie servers, networks, OS, middleware, runtime, and the application itself  
 
 _Ideal for off‑the‑shelf tools like email, CRM, or collaboration platforms._
 
@@ -107,8 +107,8 @@ _Ideal for off‑the‑shelf tools like email, CRM, or collaboration platforms._
 
 You’ve just unlocked the big picture of cloud computing—how it lets you offload the heavy lifting of servers, networking, and storage so you can focus on building great stuff.  
 
-- **IaaS** puts the infrastructure toolbox in your hands—perfect when you need full control.  
-- **PaaS** hands you a turnkey workshop—ideal for spinning up apps without worrying about the OS or runtime.  
-- **SaaS** is like renting a fully furnished apartment—you simply move in and start using the service.
+- **IaaS** puts the infrastructure toolbox in your hands perfect when you need full control.  
+- **PaaS** hands you a turnkey workshop, ideal for spinning up apps without worrying about the OS or runtime.  
+- **SaaS** is like renting a fully furnished apartment, you simply move in and start using the service.
 
 Choosing the right model is all about balancing control, cost, and convenience. 
