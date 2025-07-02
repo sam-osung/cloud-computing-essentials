@@ -89,6 +89,8 @@ _Ideal for off‑the‑shelf tools like email, CRM, or collaboration platforms._
 | **Application Code**     | ✔️You      | ✔️You      | ❌N/A     |
 | **Data & Config**        | ✔️You      | ✔️You      | ✔️You      |
 
+![Image](https://github.com/user-attachments/assets/0fef8e30-6fd2-482b-87ca-7b94bd077bd2)
+
 ---
 
 ## Key Takeaways
